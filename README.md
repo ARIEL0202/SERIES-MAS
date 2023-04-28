@@ -1,75 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="Colony S01 E01" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S01 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513166.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colony S01 E02" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S01 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513167.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colony S01 E03" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S01 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513168.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colony S01 E04" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S01 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513169.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colony S01 E05" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S01 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513170.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colony S01 E06" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S01 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513171.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colony S01 E07" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S01 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513172.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colony S01 E08" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S01 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513173.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colony S01 E09" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S01 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513174.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colony S01 E10" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S01 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513175.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colony S02 E01" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S02 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513176.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colony S02 E02" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S02 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513177.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colony S02 E03" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S02 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S02 E04" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S02 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513179.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colony S02 E05" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S02 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513180.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S02 E06" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S02 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513181.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S02 E07" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S02 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513182.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S02 E08" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S02 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S02 E09" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S02 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513184.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S02 E10" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S02 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S02 E11" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S02 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513186.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colony S02 E12" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S02 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513187.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colony S03 E01" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S03 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S03 E02" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S03 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S03 E03" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S03 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S03 E04" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S03 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S03 E05" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S03 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S03 E06" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S03 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513193.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S03 E07" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S03 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S03 E08" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S03 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S03 E09" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S03 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S03 E10" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S03 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S03 E11" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S03 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S03 E12" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S03 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Colony S03 E13" tvg-logo="http://l3d.us:25461/images/2e119103131abb2aaa768f5bbd86f6d5.jpg" group-title="SER | CIENCIA FICCIÓN",Colony S03 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/513200.mp4
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E01" tvg-logo="http://l3d.us:25461/images/e716d1cdd48f31b13204966d1e2861b1.jpg" group-title="SER | CRIMEN",Mr. Robot S01 E01
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/500133.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E02" tvg-logo="http://l3d.us:25461/images/e716d1cdd48f31b13204966d1e2861b1.jpg" group-title="SER | CRIMEN",Mr. Robot S01 E02
@@ -483,122 +411,57 @@ http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/500336.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lindas Mentirosas S07 E20" tvg-logo="http://l3d.us:8080/images/506bbb38d6df835c42de425ef232a34a.jpg" group-title="SER | DRAMA",Lindas Mentirosas S07 E20
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/500337.mp4
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWVDYshnwrhhvwlhSs8YFosbkvC.jpg" group-title="SERIES - DRAMA",Glitch S01 E01
-http://tv.fullytv.com:8080/series/cramirez/456790/1087212.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ee4F9bXHZAzpCjcBRrHrhBg1xQy.jpg" group-title="SERIES - DRAMA",Glitch S01 E02
-http://tv.fullytv.com:8080/series/cramirez/456790/1087214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auBmamPzR8xBP9chD2DKhi9YX3e.jpg" group-title="SERIES - DRAMA",Glitch S01 E03
-http://tv.fullytv.com:8080/series/cramirez/456790/1087215.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhMwHAKtYJBHxMcitsQCALNn2Xr.jpg" group-title="SERIES - DRAMA",Glitch S01 E04
-http://tv.fullytv.com:8080/series/cramirez/456790/1087216.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLj6f7JWjRWiViK86mitNvA6zLv.jpg" group-title="SERIES - DRAMA",Glitch S01 E05
-http://tv.fullytv.com:8080/series/cramirez/456790/1087217.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfEIBPl6UA4UhZI8Ezylb7WYcIs.jpg" group-title="SERIES - DRAMA",Glitch S02 E01
-http://tv.fullytv.com:8080/series/cramirez/456790/1087834.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZKjiVTiogD5dYZjvvO0dU77NCz.jpg" group-title="SERIES - DRAMA",Glitch S02 E02
-http://tv.fullytv.com:8080/series/cramirez/456790/1087835.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDc1pVNSzx4axQVlBEUw5MJnKjC.jpg" group-title="SERIES - DRAMA",Glitch S02 E03
-http://tv.fullytv.com:8080/series/cramirez/456790/1087836.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Lq7yxWDG4a60x8StStOktYFKeQ.jpg" group-title="SERIES - DRAMA",Glitch S02 E04
-http://tv.fullytv.com:8080/series/cramirez/456790/1087837.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmPFR5gDDwRvEhOfda8cjlbZqqC.jpg" group-title="SERIES - DRAMA",Glitch S02 E05
-http://tv.fullytv.com:8080/series/cramirez/456790/1087838.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o70pRrYX3BZQvragMp4UrhYu1au.jpg" group-title="SERIES - DRAMA",Glitch S02 E06
-http://tv.fullytv.com:8080/series/cramirez/456790/1087839.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7z0Ci10Qhha4i1xNLqv6L9FROR.jpg" group-title="SERIES - DRAMA",Glitch S03 E01
-http://tv.fullytv.com:8080/series/cramirez/456790/1087840.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mf5PE0OWGIjbToy1uD2llSCmkvq.jpg" group-title="SERIES - DRAMA",Glitch S03 E02
-http://tv.fullytv.com:8080/series/cramirez/456790/1087841.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cX8qKXTQBpokPzHd1QWIzQnmTmX.jpg" group-title="SERIES - DRAMA",Glitch S03 E03
-http://tv.fullytv.com:8080/series/cramirez/456790/1087842.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x364AsEm7awezOfpDsmDqiNskW0.jpg" group-title="SERIES - DRAMA",Glitch S03 E04
-http://tv.fullytv.com:8080/series/cramirez/456790/1087843.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BpYa3A0Li2lAKXLF2tTGiH3JN0.jpg" group-title="SERIES - DRAMA",Glitch S03 E05
-http://tv.fullytv.com:8080/series/cramirez/456790/1087844.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Glitch S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHn5BCXqpasTWtaIkwCeA5EDdPS.jpg" group-title="SERIES - DRAMA",Glitch S03 E06
-http://tv.fullytv.com:8080/series/cramirez/456790/1087845.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Cero S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cIMe2MiIUE0bnjrPlHtGrEwyrO.jpg" group-title="SERIES - RETRO",Cero S01 E01
-http://tv.fullytv.com:8080/series/cramirez/456790/1090497.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cero S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/de1ZzaKxIOzFCzD9xmMROvTvpaW.jpg" group-title="SERIES - RETRO",Cero S01 E02
-http://tv.fullytv.com:8080/series/cramirez/456790/1090496.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cero S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFnqwAIsZoRHU5wzx9JADQesHW0.jpg" group-title="SERIES - RETRO",Cero S01 E03
-http://tv.fullytv.com:8080/series/cramirez/456790/1090493.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cero S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFkUKXFD6bwfFDJNAdtqMlk7znJ.jpg" group-title="SERIES - RETRO",Cero S01 E04
-http://tv.fullytv.com:8080/series/cramirez/456790/1090494.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cero S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGH5Oi2bx5RYHRgdZ60hWmMq0AX.jpg" group-title="SERIES - RETRO",Cero S01 E05
-http://tv.fullytv.com:8080/series/cramirez/456790/1090492.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cero S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouRGPPeSD7YW0Omxty6wGTW7PON.jpg" group-title="SERIES - RETRO",Cero S01 E06
-http://tv.fullytv.com:8080/series/cramirez/456790/1090495.mkv
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBoRQPOvdBhcAwJzJLxdYeUssn6.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S01 E01
-http://tv.fullytv.com:8080/series/cramirez/456790/1101316.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x03s6HH9nHYV4UFXDt8yR9LKdWv.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S01 E02
-http://tv.fullytv.com:8080/series/cramirez/456790/1101317.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xXtfqgADyp1IoV7eu5MmiNtabf.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S01 E03
-http://tv.fullytv.com:8080/series/cramirez/456790/1101318.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUonyQAbVXKZZOzR6Uixq0oVkB0.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S01 E04
-http://tv.fullytv.com:8080/series/cramirez/456790/1101319.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHP0ZB9fIoqrKcHzNc0o4edJxpg.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S01 E05
-http://tv.fullytv.com:8080/series/cramirez/456790/1101320.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZgiNzVwlln6MwB5AXaOTJnCA4t.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S01 E06
-http://tv.fullytv.com:8080/series/cramirez/456790/1101321.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv8Br3Si7cpIuvI5lyy869VaYnh.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S01 E07
-http://tv.fullytv.com:8080/series/cramirez/456790/1101322.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3GPc211AXq69x0pZghGybPV1QC.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S01 E08
-http://tv.fullytv.com:8080/series/cramirez/456790/1101323.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUdwl4pUfbQAdE4wSQnjiQenpEr.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S01 E09
-http://tv.fullytv.com:8080/series/cramirez/456790/1101324.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxyktaoS13UqbIaRy1bbNwFt04v.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S02 E01
-http://tv.fullytv.com:8080/series/cramirez/456790/1118453.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GnxpIpDmWlHjAQge6V0U4AH4j4.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S02 E02
-http://tv.fullytv.com:8080/series/cramirez/456790/1118454.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iL2UVnPFux5BLW6MFcMqr2Uc1Li.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S02 E03
-http://tv.fullytv.com:8080/series/cramirez/456790/1118455.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHe595l424sVEoHWTU3Affz5QIQ.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S02 E04
-http://tv.fullytv.com:8080/series/cramirez/456790/1118456.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1TPGxSfy0cBf2Dt7AtSy9QhSnQ.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S02 E05
-http://tv.fullytv.com:8080/series/cramirez/456790/1118457.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTjoWRohWT2TGFJJu3kisIfrdhk.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S02 E06
-http://tv.fullytv.com:8080/series/cramirez/456790/1118458.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahx4bWnDK2WcA6r0rKAIyc6Vt5r.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S02 E07
-http://tv.fullytv.com:8080/series/cramirez/456790/1118459.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUDOxb5E04erZMgM2JSkX4bXIvz.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S02 E08
-http://tv.fullytv.com:8080/series/cramirez/456790/1118460.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJEwwcPTPg9mqQOtlF143A4VhYg.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S03 E01
-http://tv.fullytv.com:8080/series/cramirez/456790/1147669.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCW9CU49IoDIeTdRfHmyiWL1NEU.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S03 E02
-http://tv.fullytv.com:8080/series/cramirez/456790/1147670.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0Y50F2fMYgegGFmxhI1Zz6ff2C.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S03 E03
-http://tv.fullytv.com:8080/series/cramirez/456790/1147671.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wirT7IIkHzXNG98MVnU3mlyi136.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S03 E04
-http://tv.fullytv.com:8080/series/cramirez/456790/1147672.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7m0g38tZANh0sOZGkiXV1IxcHR.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S03 E05
-http://tv.fullytv.com:8080/series/cramirez/456790/1147673.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyisX31sztRgwwqTU0HMDGAcsQk.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S03 E06
-http://tv.fullytv.com:8080/series/cramirez/456790/1147674.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vvr3xWfyi0kblQ8Iwx84Aj3nGx.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S03 E07
-http://tv.fullytv.com:8080/series/cramirez/456790/1147675.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yp9fnahom6b2BJef63qR2U9LTW4.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S03 E08
-http://tv.fullytv.com:8080/series/cramirez/456790/1147676.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJWZuPDqSjl5NMN5buhDF7fnKyy.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S03 E09
-http://tv.fullytv.com:8080/series/cramirez/456790/1147677.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madre solo hay dos S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0TRdxP3EiPuEKM0SukHD8EyV5W.jpg" group-title="SERIES - COMEDIA",Madre solo hay dos S03 E10
-http://tv.fullytv.com:8080/series/cramirez/456790/1147678.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Chichipatos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jeEPGtmcjnCqtRLMqTpjvNyZ6v.jpg" group-title="SERIES - COMEDIA",Chichipatos S01 E01
-http://tv.fullytv.com:8080/series/cramirez/456790/1105860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chichipatos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s9Ct7jd1ye3AF9KJsC3k7pdbad.jpg" group-title="SERIES - COMEDIA",Chichipatos S01 E02
-http://tv.fullytv.com:8080/series/cramirez/456790/1105861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chichipatos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5iLQTXiy69ZdFuHYam9IePco1r.jpg" group-title="SERIES - COMEDIA",Chichipatos S01 E03
-http://tv.fullytv.com:8080/series/cramirez/456790/1105862.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chichipatos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lE8rTc6JKStjYeMX4ygJXK11Bvg.jpg" group-title="SERIES - COMEDIA",Chichipatos S01 E04
-http://tv.fullytv.com:8080/series/cramirez/456790/1105863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chichipatos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dv8JE8HZNfsmxSfUUYNtNmoZQR.jpg" group-title="SERIES - COMEDIA",Chichipatos S01 E05
-http://tv.fullytv.com:8080/series/cramirez/456790/1105864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chichipatos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiJaZMfgCiO1ehxnrKzhc5bel3H.jpg" group-title="SERIES - COMEDIA",Chichipatos S01 E06
-http://tv.fullytv.com:8080/series/cramirez/456790/1105865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chichipatos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzPHSazXTPptdugyk17PfbhtiDM.jpg" group-title="SERIES - COMEDIA",Chichipatos S01 E07
-http://tv.fullytv.com:8080/series/cramirez/456790/1105866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S01 E01" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S01 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S01 E02" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S01 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S01 E03" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S01 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S01 E04" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S01 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S01 E05" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S01 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S01 E06" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S01 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S01 E07" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S01 E07
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S01 E08" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S01 E08
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S02 E01" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S02 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S02 E02" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S02 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S02 E03" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S02 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S02 E04" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S02 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S02 E05" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S02 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S02 E06" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S02 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S02 E07" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S02 E07
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S02 E08" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S02 E08
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S02 E09" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S02 E09
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S02 E10" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S02 E10
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S03 E01" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S03 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S03 E02" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S03 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S03 E03" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S03 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S03 E04" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S03 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S03 E05" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S03 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S03 E06" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S03 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S03 E07" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S03 E07
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S03 E08" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S03 E08
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penny Dreadful S03 E09" tvg-logo="http://l3d.us:25461/images/f176eb8152b30d2666179ae6ec71d083.jpg" group-title="SER | CIENCIA FICCIÓN",Penny Dreadful S03 E09
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/501344.mkv
